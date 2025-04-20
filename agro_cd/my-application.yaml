@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/balaajimuthukumar/agrocdrepo.git
     targetRevision: main
-    path: .
+    path: my-k8s-repo
   syncPolicy:
     automated:
       prune: true
