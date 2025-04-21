@@ -5,4 +5,4 @@ metadata:
   namespace: app-namespace
 data:
   APP_ENV: "production"
-  LOG_LEVEL: "info"
+  LOG_LEVEL: "infoo"
